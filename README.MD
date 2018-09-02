@@ -1,12 +1,10 @@
-## 基于gulp搭建的前端自动化构建
-
-**适用于中小型项目，快速构建前端项目框架。比如运营活动页，官网类，简单移动端项目，小demo测试等**
+##  Tommy 自用 基于gulp搭建
 
 ## 项目启动
 ```
 // 常用命令
 开发环境： npm run dev
-生产环境： npm run build
+生产环境： npm run build //将配置文件端口改为80
 
 // 单任务命令
 执行压缩： gulp zip
@@ -17,8 +15,7 @@
 压缩图片： gulp images
 ```
 
-## [项目地址](https://github.com/vincentSea/gulp-cli)
-* 如对你有帮助，希望给个Star ！哈哈哈！！
+
 ```
 git clone https://github.com/vincentSea/gulp-cli.git
 ```
@@ -93,6 +90,6 @@ useWebpack: false // 是否启用webpack
 
 * 如有设计不合理地方，可以提出，我乃虚心听取
 
-* [项目地址](https://github.com/vincentSea/gulp-cli) 如对你有帮助，希望给个Star ！哈哈哈！！
+
 
 
